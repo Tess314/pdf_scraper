@@ -1,4 +1,4 @@
 # pdf_scraper
-Scrapes data from PDF files
+Scrapes data from PDF tables
 
 ![demo](demo.PNG)
